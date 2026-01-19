@@ -1,0 +1,58 @@
+# נתנאל עמר — Generative Engine Optimization Map
+
+> A שירותי אינטרנט ופיתוח business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-339bdad0.zappy5.app
+גלו שירותי בנייה וקידום אתרים מקצועיים שמניבים תוצאות אמיתיות. צרו קשר היום לייעוץ חינם!
+
+### השירותים שלנו
+https://-339bdad0.zappy5.app/services
+שירותי בנייה וקידום אתרים מקיפים לעסקים קטנים ויזמי מסחר אלקטרוני. קבל פתרון דיגיטלי מותאם אישית!
+
+### אודות
+https://-339bdad0.zappy5.app/about
+הכירו את נתנאל עמר, מומחה בנייה וקידום אתרים בישראל עם ניסיון עשיר בפיתוח דיגיטלי לעסקים קטנים.
+
+### צור קשר
+https://-339bdad0.zappy5.app/contact
+צרו קשר עם נתנאל עמר לייעוץ חינם בנושא בנייה וקידום אתרים. נשמח לעזור לכם להצליח באינטרנט!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-339bdad0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-339bdad0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-339bdad0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נתנאל עמר
+נתנאל עמר is a business in the שירותי אינטרנט ופיתוח industry.
+
+## Target Audience
+- בעלי עסקים קטנים
+- יזמי מסחר אלקטרוני
+
+## Industry
+שירותי אינטרנט ופיתוח
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-339bdad0.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-339bdad0.zappy5.app/robots.txt
